@@ -1,0 +1,11 @@
+# Apple_API.list
+host-suffix, aaplimg.com, Apple_API
+host-suffix, apple.co, Apple_API
+host-suffix, apple.com, Apple_API
+host-suffix, apple-cloudkit.com, Apple_API
+host-suffix, appsto.re, Apple_API
+host-suffix, cdn-apple.com, Apple_API
+host-suffix, icloud.com, Apple_API
+host-suffix, icloud-content.com, Apple_API
+host-suffix, itunes.com, Apple_API
+host-suffix, me.com, Apple_API

@@ -1,0 +1,12 @@
+# Apple_CDN.list
+# > App Store
+user-agent, com.apple.appstored*, Apple_CDN
+host-suffix, mzstatic.com, Apple_CDN
+host, iosapps.itunes.apple.com, Apple_CDN
+host, osxapps.itunes.apple.com, Apple_CDN
+# > Update
+host, supportdownload.apple.com, Apple_CDN
+host, appldnld.apple.com, Apple_CDN
+host, swcdn.apple.com, Apple_CDN
+host, apptrailers.itunes.apple.com, Apple_CDN
+host, updates-http.cdn-apple.com, Apple_CDN

@@ -1,0 +1,35 @@
+# AsianMedia.list
+# > Bilibili
+user-agent, *bili*, AsianMedia
+host-keyword, bilibili, AsianMedia
+host-suffix, acg.tv, AsianMedia
+host-suffix, acgvideo.com, AsianMedia
+host-suffix, b23.tv, AsianMedia
+host-suffix, biliapi.com, AsianMedia
+host-suffix, biliapi.net, AsianMedia
+host-suffix, bilibili.com, AsianMedia
+host-suffix, bilibili.tv, AsianMedia
+host-suffix, biligame.com, AsianMedia
+host-suffix, biligame.net, AsianMedia
+host-suffix, bilivideo.com, AsianMedia
+host-suffix, hdslb.com, AsianMedia
+host-suffix, im9.com, AsianMedia
+host, upos-hz-mirrorakam.akamaized.net, AsianMedia
+# > IQIYI
+user-agent, QIYI*, AsianMedia
+user-agent, iQiYi*, AsianMedia
+host-keyword, qiyi, AsianMedia
+host-suffix, 71.am.com, AsianMedia
+host-suffix, qy.net, AsianMedia
+ip-cidr, 101.227.0.0/16, AsianMedia
+ip-cidr, 101.224.0.0/13, AsianMedia
+ip-cidr, 119.176.0.0/12, AsianMedia
+# > letv
+host-suffix, api.mob.app.letv.com, AsianMedia
+# > MOO
+user-agent, MOO*, AsianMedia
+user-agent, TencentMidasConnect*, AsianMedia
+# > Tencent Video
+host-suffix, vv.video.qq.com, AsianMedia
+# > Youku
+ip-cidr, 106.11.0.0/16, AsianMedia

@@ -1,0 +1,20 @@
+# Region.list
+# > LAN
+host, localhost, Domestic
+host-suffix, local, Domestic
+ip-cidr, 0.0.0.0/8, Domestic
+ip-cidr, 10.0.0.0/8, Domestic
+ip-cidr, 127.0.0.0/8, Domestic
+ip-cidr, 169.254.0.0/16, Domestic
+ip-cidr, 172.16.0.0/12, Domestic
+ip-cidr, 192.0.2.0/24, Domestic
+ip-cidr, 192.168.0.0/16, Domestic
+ip-cidr, 198.18.0.0/15, Domestic
+ip-cidr, 198.51.100.0/24, Domestic
+ip-cidr, 203.0.113.0/24, Domestic
+ip-cidr, 224.0.0.0/4, Domestic
+ip-cidr, 240.0.0.0/4, Domestic
+# > China
+host-suffix, cn, Domestic
+host-suffix, xn--fiqs8s, Domestic
+geoip, cn, Domestic
